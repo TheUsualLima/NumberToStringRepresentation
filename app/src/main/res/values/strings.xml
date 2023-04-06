@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NumberToStringRepresentation</string>
+    <string name="main_input_hint">Input number</string>
+    <string name="main_primary_cta">Convert</string>
+    <string name="clipboard_copy">Copied to clipboard</string>
+</resources>
